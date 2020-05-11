@@ -1,0 +1,48 @@
+body{
+    
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    background-color: rgb(50, 99, 231);
+}
+
+header{
+    text-align: center;
+    color: beige;
+}
+
+section{
+    display: flex;
+    background-color: beige;
+    border-radius: 10px;
+    width: 580px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.404);
+    padding: 10px;
+}
+section #msg{
+    
+    text-align: center;
+    margin-right: 10px;
+    padding-top: 120px;
+    letter-spacing: 2px;
+    font-weight: bolder;
+    text-decoration: underline;
+    color: rgb(48, 46, 44);
+    font-size: 22px;
+}
+section #foto{
+    margin: 0 auto;
+}
+span{
+    color: rgb(67, 67, 236);
+}
+
+footer{
+    text-align: center;
+    color: beige;
+    font-style: italic;
+}
+
+
